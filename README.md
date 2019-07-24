@@ -17,8 +17,6 @@ Calvin: StockMasterGUI, integration with all other classes, front-end testing, p
 Jill: StockData & NewsAnalysis, integration with DataPlot, corresponding JUnit tests.
 
 Jennifer: DataPlot, corresponding JUnit tests.
-                       
-**Link to GitHub repository:** https://github.com/calchen01/StockMaster
 
 ![user manual pg 1](manualPg1.png)
 ![user manual pg 2](manualPg2.png)
